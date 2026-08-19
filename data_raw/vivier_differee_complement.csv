@@ -1,0 +1,349 @@
+id,clinical_case,cc_question_number,question,answer,medical_subject,question_type,sans_signal_gravite
+48,"Un enfant de deux ans et demi est adressé pour des otites moyennes aigües récidivant toutes les 6 semaines environ. Cet enfant a déjà eu un bilan allergologique et une recherche de carence martiale, négatifs. A l’examen en dehors d’une période d’otite aigüe, vous trouvez deux tympans fins mais ternes, jaunâtres avec bulles hydroaériques.
+ Cet enfant est perdu de vue 3 ans. Les otites aiguës ont progressivement disparu, puis une otorrhée purulente gauche est survenue il y a 4 mois, améliorée par un traitement antibiotique local mais ayant récidivé à 3 reprises. Le tympan droit est normal, mais l’otoscopie est difficile à gauche car une otorrhée purulente gène l’analyse du tympan.",6,"Citez deux complications de l’OSM, qui a pu survenir pendant ces 3 ans et être responsable de la symptomatologie ?","- Evolution vers une otite moyenne chronique muqueuse ou cholestéatomateuse
+ - Ou réchauffement et nouvelle phase d’otites moyennes aiguës",Otorhinolaryngology (ENT),Understanding,True
+4890,Mme X. vient vous consulter pour retard de règles. Elle a 20 ans et vous avez chiffré ce retard à 8 semaines d'aménorrhées. Votre examen clinique est normal et vous n'avez pas noté d'antécédent particulier,1,Quels examens complémentaires à but diagnostic demandez-vous ?,Dosage qualitatif de β-HCG (« test pack » par exemple) ; échographie pelvienne par voie abdominale et endovaginale.,Gynecology and Obstetrics,Understanding,True
+749,Une échographie fœtale du deuxième trimestre montre plusieurs tumeurs hyperéchogènes dans les deux ventricules.,1,Quelle est a priori la nature de ces tumeurs cardiaques ?,Rhabdomyomes,Pediatric Cardiology,Understanding,True
+4855,"Une protéinurie positive +++ est découverte chez un homme de 72 ans, suivi depuis 17 ans pour un diabète de type 2 et traité par 3 comprimés de Glucophage® 850 mg (metformine). Le patient présente des oedèmes aux membres inférieurs depuis plusieurs jours et une pression artérielle à 165/105 mmHg.
+Les examens biologiques complémentaires donnent les résultats suivants :
+Pl Sodium : 138 mmol/L
+Pl Potassium : 3,3 mmol/L
+Pl Chlorure : 98 mmol/L
+Pl CO2 total * : 30 mmol/L
+Pl Urée : 11,5 mmol/L
+Pl Créatinine : 170 μmol/L
+Pl Glucose : 6,4 mmol/L
+Diurèse : 950 mL
+dU Sodium : 15 mmol
+dU Potassium : 25 mmol
+dU Créatinine : 15 mmol
+dU Urée : 420 mmol
+dU Protéines : 5,2 g
+Glucose : négatif
+Sang : +
+
+Protéinogramme :
+Se Protéines : 58 g/L
+Se albumine : 29 g/L
+Se alpha 1 globulines : 2,8 g/L
+Se alpha 2 globulines : 8,2 g/L
+Se bêta globulines : 12 g/L
+Se gamma globulines : 6,0 g/L
+
+* Lire CO2 total = bicarbonates",1,Interpréter la valeur de l’albuminémie. Préciser les valeurs usuelles. Quelles sont les principales causes de variation de l’albuminémie ?,"Présence d’une hypo-albuminémie (valeurs usuelles : 38 - 48 g/L).
+Principale cause d’une hyper-albuminémie : déshydratation extracellulaire (DEC). Principales causes d’une hypo-albuminémie :
+-  défaut de synthèse : insuffisance hépatocellulaire, inflammation, hémopathies, carences en acides aminés et protéines, analbuminémie congénitale.
+-  hypercatabolisme protéique : hyperthyroïdie, syndrome de Cushing, syndrome inflammatoire sévère ;
+-  pertes rénales (syndrome néphrotique) ou cutanées (brûlures) ;
+-  hyperhydratation extracellulaire (HEC) ;
+-  augmentation de la perméabilité vasculaire (extravasation).",Pharmacy,Reasoning,True
+4400,"Une adolescente de 15 ans, accompagnée de sa mère, est reçue en consultation de gynécologie pour des ménorragies apparues depuis ses premières règles.
+L’interrogatoire retrouve chez elle la notion d’épistaxis fréquentes et une tendance aux ecchymoses. Il n’existe pas d’antécédents chirurgicaux. La mère déclare avoir eu, elle-même, des règles abondantes jusqu’à ce qu’un traitement oestroprogestatif ait été instauré.
+Le bilan biologique pratiqué chez l’adolescente, à l’issue de la consultation, montre les résultats suivants :
+
+Hémogramme :
+-  Sg Erythrocytes : 4 T/L
+-  Sg Hémoglobine : 90 g/L
+-  Sg Hématocrite : 0,31
+-  Sg Leucocytes : 6,8 G/L
+-  Sg Thrombocytes :220 G/L
+-  Sg Formule leucocytaire : normale.
+
+Se Fer : 7 μmol/L
+Se Ferritine : 10 μg/L
+
+Bilan d’hémostase :
+Sg Temps de saignement (IVY incision) : 14 min
+Pl Temps de céphaline activée (malade/témoin) : 1,5
+Pl Taux du complexe prothrombinique : 87%
+Pl Fibrinogène : 2,70 g/L",2,"Compte tenu du contexte clinique, personnel et familial, comment interpréter ces résultats biologiques ?","-  Les ménorragies de même que les saignements répétés sous forme d’épistaxis permettent d’expliquer l’anémie hypochrome microcytaire par carence en fer.
+-  L’allongement du temps de saignement associé ici à un nombre de thrombocytes normal exclut un trouble de l’hémostase primaire en relation avec une thrombopénie.
+Cet allongement du temps de saignement est à rapprocher de l’anomalie de la voie intrinsèque de la coagulation objectivée par l’allongement du TCA. On peut alors suspecter une anomalie du facteur Willebrand qui intervient dans l’hémostase primaire et également dans la coagulation comme transporteur du facteur VIII.
+-  L’hypothèse d’une maladie de Willebrand est compatible avec l’existence d’hémorragies muqueuses (épistaxis, ménorragies) et cutanées (ecchymoses) signalées par la patiente. On note également des antécédents familiaux (ménorragies maternelles). Les anomalies biologiques associées aux antécédents hémorragiques personnels et familiaux font évoquer une maladie de Willebrand.",Pharmacy,Reasoning,True
+1533,Vous suivez un enfant pour une double discordance isolée. A l’âge de 3 ans apparaît une insuffisance tricuspide côtée 2/4.,1,Quel traitement proposez-vous ?,Cerclage de l’AP afin de réduire l’IT,Pediatric Cardiology,Reasoning,True
+1650,"Une femme de 24 ans enceinte depuis 7 mois consulte son médecin. Il s'agit d'une première grossesse jusque là « sans histoire». Depuis 72 heures, la malade présente une dysurie et souffre de douleurs pelviennes, elle est apyrétique. A l'examen clinique, l'utérus est de taille normale à ce stade de la gestation. A l'examen des urines, on note:
+ - Leucocytes: nombre supérieur à 100000 par ml
+ - Cylindres: absence
+ - Protéinurie: traces
+ - Glucosurie : nulle
+ Après culture au laboratoire, les urines présentent 1.000.000 bacilles à Gram négatif par mL.",1,Quel est le diagnostic le plus probable? Justifier votre réponse.,"Il s'agit d'une infection urinaire en raison de la présence de leucocytes et de bactéries en quantité significalive (> 105/L) Cette infectlon reste basse et localisée ainsi qu'en témoignent l'absence de fièvre et l’absence d'hématies et de cylindres, ces derniers éléments permettant d'éliminer très probablernent une infection rénale,",Pharmacy,Reasoning,True
+4216,"Marie, 16 ans, est amenée en consultation par sa mère, excédée du comportement alimentaire de sa fille. En effet, Marie ne mange plus à la table familiale depuis un an, mange de façon irrégulière et anarchique : elle peut absorber des quantités importantes de nourriture, surtout de gâteaux, Nutella et pain. Les parents trouvent dans l'appartement des sacs de plastique, pleins de vomissements. Ils se sentent impuissants et demandent de l'aide. Marie est une belle jeune fille, élégante, maquillée, elle dit ne pas pouvoir résister à ce qu'elle nomme ses ""accès de fringale"". Elle avale alors n'importe quoi, sans mâcher. Elle est ensuite obligée de se faire vomir, d'une part parce qu'elle se sent mal à l'aise et se dégoûte, d'autre part, parce qu'elle a peur de grossir. Il y a du sang dans ses vomissements, dit‐elle, mais elle ajoute ""c'est pas grave"". En effet, Marie contrôle son poids. Il est actuellement de 52 kg pour une taille de 1,60 m. Elle se trouve trop grosse. L'an dernier, elle a perdu 10 kg en quelques mois, n'avait plus ses règles (elle ne les a toujours pas), elle se trouvait alors très bien. Elle avait consulté quelques fois un psychiatre, sans trouver d'intérêt à ses consultations et sans s'y impliquer. Elle estime d'ailleurs que personne ne peut grand chose pour elle. Elle n'est pas satisfaite d'elle‐même, elle se dit triste, s'isole, a parfois des ""idées noires"" et dit qu'elle ne pourra plus continuer à vivre comme cela. Elle a du mal à quitter sa maison et sa mère, dont elle est d'autant plus proche qu'elle est fille unique et que le père est absent la semaine, du fait de son travail.",1,Quel est votre diagnostic ?,"Le diagnostic proposé est le suivant : Boulimie, ou crise boulimique ou conduite boulimique (équivalents).",Psychiatry,Reasoning,True
+2633,"Un homme de 60 ans est hospitalisé pour une asthénie, une fièvre, des infections urinaires à répétition et des douleurs osseuses attribuées à une spondylarthrite ankylosante. L’examen clinique ne montre ni splénomégalie, ni adénopathie.
+ L’Hémogramme donne :
+ Sg Hémoglobine : 80 g/L
+ Sg Hématocrite : 0.28
+ Sg Erythrocytes : 3.2 T/L
+ Sg Plaquettes : 250 G/L
+ Sg Leucocytes : 6.5 G/L
+ Formule leucocytaire :
+ PN : 65%
+ PE : 2 % Lymphocytes : 29 %
+ Monocytes : 4 %
+ Sur le frottis sanguin on note une anisopoïkilocytose et la présence d’érythrocytes en rouleaux.",1,Commenter l’hémogramme après avoir calculé les constantes érythrocytaires.,"Constantes érythrocytaires : VGM = 87,5 fL ; TCMH = 28 pg; CCMH = 32 %. Il s'agit d'une anémie normochrome normocytaire avec un chiffre de leucocytes, de plaquettes et une formule leucocytaire normaux. La formation de rouleaux est un phénomène anormal.",Pharmacy,Reasoning,True
+538,Un enfant de 4 ans consulte pour une suspicion de séquelle coronaire de maladie de Kawasaki car il a été noté une dilatation de la coronaire droite à 5 mm avec une coronaire gauche normale. Vous êtes surpris d'ausculter un souffle continu mésocardiaque.,1,Comment rectifiez-vous ce diagnostic?,Fistule coronaro-camérale,Pediatric Cardiology,Reasoning,True
+4701,"Un homme âgé de 28 ans consulte pour un écoulement urétral associé à des mictions très douloureuses. Cet écoulement est apparu depuis 3 jours à la suite d’un rapport sexuel avec une partenaire occasionnelle. Le médecin prescrit un examen cytobactériologique de l’écoulement urétral. De plus, il prescrit un traitement à suivre une fois le prélèvement réalisé.\n Voici les résultats partiels du prélèvement urétral communiqués au médecin par le biologiste :\n -  Examen direct après coloration de Gram : nombreux polynucléaires et nombreux cocci à Gram négatif en diplocoques dont certains intraleucocytaires.\n -  Culture en cours.",1,Quel est le diagnostic envisagé ? Quel est le micro-organisme responsable et son mode de transmission ?,"Urétrite aiguë gonococcique : agent responsable Neisseria gonorrhoeae ou gonocoque. Les signes cliniques sont caractéristiques avec écoulement purulent et douleurs mictionnelles (""uriner des lames de rasoir"", ""chaude pisse""). De même l’examen direct est caractéristique ""cocci à Gram négatif en grain de café"" souvent intraleucocytaire. La transmission est due au rapport sexuel avec la partenaire occasionnelle. C’est une MST.",Pharmacy,Understanding,True
+1949,"Un homme de 60 ans est hospitalisé pour insuffisance rénale de découverte récente. L'interrogatoire ne décèle aucun antécédent particulier sur le plan uro-néphrologique. Depuis 2 mois environ, le malade se plaint de douleurs osseuses diffuses à recrudescence nocturne, traitées par Kétoprofène (Profenid®).
+ Lors de l'examen clinique, on note une altération de l'état général. Le bilan biologique est le suivant:
+ Sg- VS 100 mm à la première heure
+ Sg- Globules rouges 3 T/L
+ Sg- Hémoglobine 100 g/L
+ Sg- Hématocrite 0,30
+ Sg- Leucocytes 9,5 G/L
+ Se- Urée 14 mmol/l
+ Se- Créatinine 380 micromol/l
+ Se- Protides 90 g/L
+ Se- Sodium 129 mmol/L
+ Se- Potassium 5,2 mmol/L
+ Se- Chlorure 110 mmol/L
+ C02 Total 19 mmol/L
+ Se- Calcium 2,70 mmol/L
+ Se- Phosphore 1,00 mmol/L
+ Le frottis sanguin montre des hématies en rouleaux. 
+ Urines de 24 heures : 500 mL
+ Protéinurie: 0,40 g/24 h par dosage, négative à la bandelette",1,Commenter l'ensemble de ces résultats biologiques et calculer les constantes hématologiques non explicitées dans ce bilan.,"Hémoglobine, hématocrite et globules rouges diminués
+ CCMH = 33 %; TCMH = 33 pg; VGM = 100 fL .
+ Anémie normochrome normocytaire avec un nombre normal de leucocytes.
+ Syndrome inflammatoire marqué: VS très augmentée.
+ Hyperprotidémie.
+ Hypercalcémie avec phosphorémie normale.
+ Insuffisance rénale objectivée par une augmentation de la créatinine sanguine et de l'urée sanguine avec modifications ioniques : Na diminué, K augmenté, Cl augmenté et CO2 total abaissé.",Pharmacy,Reasoning,True
+558,Un jeune homme de 24 ans a eu une plastie aortique pour une coarctation isthmique à l’âge de 3 ans. Il n’a aucun symptôme. Ses pouls fémoraux sont bien perçus. La pression artérielle au membre supérieur droit est à 140/75 mm Hg. Il a fait une épreuve d’effort quasi maximale au cours de laquelle la pression artérielle est montée à 290/110 mm Hg.,1,De quoi devez-vous vous assurer avant toute chose?,Absence de recoarctation,Pediatric Cardiology,Reasoning,True
+4262,"Une petite fille âgée de 18 mois, est née au terme d'une grossesse normale (poids de naissance 3,500 kg ; taille de naissance 50 cm ; périmètre crânien de naissance 35 cm). Le père âgé de 28 ans est asthmatique La mère âgée de 23 ans présente un eczéma de contact au Nickel. L'enfant est gardée en crèche depuis l'âge de 6 mois. Elle a présenté de nombreux épisodes de rhinopharyngites et d'otites jusqu'à l'âge de 1 an ayant conduit à différents traitements antibiotiques. Elle a été hospitalisée 24 heures à l'âge de 6 mois pour un épisode de bronchiolite. Elle n'a pas d'autres antécédents notables. Les vaccinations suivantes ont été pratiquées: ‐ BCG à la naissance ‐ vaccin pentavalent à 2, 3 et 4 mois (Pentacoq©) ‐ vaccin contre l'hépatite B aux âges de 6 et 7 mois ‐ vaccin contre Rougeole Oreillons et Rubéole effectué à l'âge de 1 an. Le vaccin antipneumococcique (Prévenar©) n'a pas été effectué. A l'âge de 18 mois, la mère est informée lorsqu'elle vient reprendre sa fille le soir à la crèche qu'elle est apparue plus fatiguée qu'à l'habitude et grognon. Sa température est à 38,9°C. Elle a un écoulement nasal clair et tousse par intermittence Il est également signalé à la mère qu'il existe une épidémie de gastro‐ entérites au sein de la crèche. L'enfant est alors conduite en consultation vers le médecin traitant de la famille. Celui‐ci trouve à l'auscultation pulmonaire, quelques ronchus. Il n'y a pas de polypnée. L'examen ORL montre des tympans normaux et des amygdales hypertrophiées et érythémateuses. Le poids est de 11 kg et la taille de 80 cm. Le médecin porte un diagnostic d'angine et prescrit de la josamycine (Josacine©) et un traitement antipyrétique.",1,Cette prescription antibiotique est‐elle justifiée ? Argumentez votre réponse.,"‐ Antibiothérapie non recommandée car la majorité des angines est virale à cet âge. ‐ Par ailleurs, si un antibiotique devait être prescrit dans ce contexte, l'amoxicilline doit être préférée aux macrolides en l'absence d'allergie connue aux béta lactamines compte tenu de la résistance acquise du streptocoque aux macrolides. La pratique d'un test de diagnostic rapide d'ue infection. à streptocoque ne figure pas à cet âge dans les recommandations actuelles (avril 2005).",Pediatrics,Reasoning,True
+533,Vous faites une scintigraphie myocardique au Thallium 201 chez un enfant de 12 ans ayant eu une correction anatomique de transposition des gros vaisseaux en période néonatale. Celle-ci montre un défaut de perfusion scintigraphique réversible dans le territoire antéro-septo-apical.,1,Quelle est la signification de ce résultat?,Ischémie myocardique,Pediatric Cardiology,Reasoning,True
+1719,"Un homme de 41 ans, coopérant en Afrique noire où il effectue régulièrement des séjours de 4 à 6 mois, se plaint de prurit récidivant depuis plusieurs mois avec des lésions maculo-papuleuses oedématiées, siégeant essentiellement au niveau de la ceinture et de l’abdomen, accompagnées de douleurs abdominales siégeant au côté droit avec diarrhées intermittentes. Chaque épisode dure quelques jours et disparaît spontanément.
+ A l’examen clinique, on observe deux lésions de grattage au niveau de l’abdomen. Le reste de l’examen est normal sans hyperthermie. L’interrogatoire ne révèle aucune pathologie intercurrente connue. Mais le patient mentionne un voyage deux ans auparavant dans le Sud-Est asiatique, durant lequel il a présenté des accès palustres (identifiés à Plasmodium vivax).
+ L’hémogramme demandé par le médecin montre :
+ Sg - - Erythrocytes 4.8 T/L
+ Sg - - Hémoglobine 136 g/L
+ Sg - - Hématocrite 46%
+ Sg - - Leucocytes 10 G/L
+ PN neutrophiles 0.37 (37%)
+ PN éosinophiles 0.42
+ PN basophiles 0.00
+ Lymphocytes 0.19
+ Monocytes 0.02
+ Sg - - Thrombocytes 250 G/L
+ Recherche d’hématozoaires : négative. 
+ Une anguillulose est évoquée",1,"Discuter les arguments cliniques, biologiques et épidémiologiques qui permettent d’étayer cette hypothèse. Commentez l’hémogramme.","Cette hypothèse est étayée par :
+ Les signes cliniques:
+ . syndrome cutané urticarien, prurigineux à localisation lombaire et abdominale,
+ . syndrome diarrhéique épisodique.
+ L'épidémiologie: notion de séjour antérieur en Afrique Noire, zone d'endémie de la parasitose,
+ La biologie: hyperéosinophilie sanguine.
+ En effet, l'hémogramme explicite les signes classiques de l'infection à Strongyloîdes stercoralis: absence d'anémie et d'hyperleucocytose, hyperéosinophilie sanguine élevée justifiée par la phase tissulaire de l'helminthiase (larves).",Pharmacy,Reasoning,True
+1596,"Madame Véronique X., 24 ans, maître-nageur dans une piscine municipale, présente aux deux pieds, des intertrigos interdigitaux: ils ont débuté au niveau du 4ème espace interdigital. il y a 6 à 8 mois, et ils évoluent par poussées.
+ L'absence d'amélioration, malgré l'utilisation de diverses « pommades» et l'observation de lésions unguéales débutant au niveau de deux orteils, l'incitent à consulter un dermatologue.
+ Le médecin demande un prélèvement en vue d'un examen mycologique au niveau des intertrigos et des ongles. Après trois semaines, le laboratoire signale la présence de Trichophyton rubrum dans tous les prélèvements.
+ Ces résultats justifient la prescription d'un traitement par griséofulvine per os (Fulcine 500 mg ®), pendant 6 mois à raison de 500 mg/j, avec application locale journalière d'un antifongique azolé (éconazole : Pevaryl ® ).",1,A quel type de champignons appartient Trichophyton rubrum ? .Quel est son mode de transmission et quelle est l'origine probable de la contamination?,"Trichophyton rubrum est un dermatophyte, champignon filamenteux kératinophile. C'est un champignon uniquement anthropophile, qui se transmet surtout de façon indirecte par les spores (sol et matériaux poreux contaminés par l'Homme: halls de sport, tapis de douche, plages de piscine, serviettes de bain...). La contamination est favorisée par la macération cutanée.",Pharmacy,Understanding,True
+65,"Vous voyez en consultation un nourrisson de 9 mois. C’est le quatrième enfant d’un couple non consanguin. Les 3 frères et sœurs sont bien portants et il n’y a pas d’antécédents familiaux de surdité. Les parents se demandent s’il entend bien. Il n’y a pas eu de traitement pendant la grossesse, l’enfant est né à 33 SA et a séjourné en néonatologie 3 semaines. Il n’y a pas de malformation crânio-faciale ou de notion de syndrome polymalformatif.",2,Quels facteurs de risque néonataux devez-vous rechercher auprès des parents et dans le compte rendu de néonatologie ?,"- Anoxie néonatale
+ - Prématurité
+ - Incompatibilité Rh",Otorhinolaryngology (ENT),Understanding,True
+2643,"Un homme de 35 ans se plaint d’une sensation de pesanteur abdominale, spécialement de l’hypochondre gauche après les repas et la marche. Il n’est pas fatigué, mais il a maigri de 3 kilogrammes sans régime particulier les deux derniers mois. Son médecin ayant constaté l’existence d’une grosse rate demande un hémogramme dont le résultat est le suivant :
+ Sg hémoglobine : 142 g/L
+ Sg hématocrite : 0.43
+ Sg érythrocytes : 4.8 T/L
+ Sg leucocytes : 64 G/L
+ PN : 29G/L
+ PE : 3G/L
+ PB : 3G/L
+ Lymphocytes : 8 G/L
+ Monocytes : 4 G/L
+ Promyélocytes : 3 G/L
+ Myélocytes : 6 G/L
+ Métamyélocytes : 8 G/L
+ Thrombocytes : 550 G/L",1,Commenter cet hémogramme et indiquer le diagnostic le plus probable.,Très importante hyperleucocytose avec myélémie. Le tableau biologique et la splénomégalie font évoquer le diagnostic de leucémie myéloïde chronique (LMC). La thrombocytose modérée fait partie du tableau de cette maladie.,Pharmacy,Reasoning,True
+2837,"Une jeune femme de 28 ans est piquée par un insecte volant à son domicile. Rapidement, elle décrit un état de malaise général, avec picotements palmo-plantaires et péri-buccaux, céphalées et vertige.",1,Quel est votre diagnostic ?,Réaction anaphylactique 15,Intensive Care,Reasoning,True
+2085,"Une femme de 50 ans, originaire du Burkina Faso, vit en France depuis 8 ans. Au cours de la visite annuelle de la Médecine du travail, elle déclare au médecin que, depuis 3 à 4 jours, elle a observé des lésions linéaires sur les fesses et le bassin ; ces lésions sont très prurigineuses. A l'interrogatoire, il n'y a pas d'antécédents médicaux récents signalés, en particulier pas de phénomènes allergiques, mais des douleurs abdominales avec épisodes alternant diarrhées et constipation. A l'examen clinique, il n'y a pas d'altération de l'état général mais une petite douleur dans la région ombilicale et des lésions cutanées de type ""urticaire"" disséminées sur l'abdomen. L'hémogramme prescrit révèle une éosinophilie à 1,5 G/L. La VS à la première heure est de 8 mm. Du fait de la provenance géographique de la patiente, la symptomatologie intestinale, les lésions cutanées et l'hyperéosinophilie sanguine, le médecin évoque une anguillulose.",1,Donner le nom de genre et d'espèce du parasite responsable de l'anguillulose.,Strongyloides stercoralis.,Pharmacy,Understanding,True
+24,"Une femme de 30 ans, maghrébine, présente une otite séromuqueuse droite depuis 3 mois, résistante au traitement par corticoïdes et antibiotiques (Augmentin®). Vous retrouvez une surdité de transmission droite. Vous palpez des adénopathies cervicales bilatérales suspectes.",1,"Quel examen ORL doit être impérativement réalisé en consultation, en dehors de l’examen otoscopique ?",Laryngoscopie indirecte au miroir ou au nasofibroscope,Otorhinolaryngology (ENT),Understanding,True
+2185,"Monsieur B., 71 ans, a une maladie de Parkinson et un adénome prostatique, traité par un extrait de Pygeum africanum (Tadenan®), depuis une dizaine d'années.
+ Son traitement antiparkinsonien est le suivant :
+ lévodopa + bensérazide (Modopar® 250)................ 4/j (matin, midi, après-midi, soir) 
+ trihexyphénidyle 2 mg................................................3/j",2,"Lors de sa visite de contrôle, Mr B. se plaint de nausées et son médecin diagnostique également une tendance dépressive. A quoi peuvent être dus ces troubles ?",Les nausées peuvent être dues à la mauvaise tolérance digestive de la lévodopa et à la fraction de lévodopa transformée en dopamine au niveau périphérique. Le syndrome dépressif est souvent associé à la maladie de Parkinson.,Pharmacy,Reasoning,True
+651,"Un enfant de 7 mois consulte pour une fièvre évoluant depuis 6 jour à 39°C résistante aux antibiotiques. Il a une conjonctivite bilatérale, des œdèmes des extrémités, une chéilite et des adénopathies diffuses.",1,Quel est votre diagnostic ?,Maladie de Kawasaki,Pediatric Cardiology,Understanding,True
+2691,"Mme T, âgée de 55 ans, cultivatrice dans la région lyonnaise, n’ayant jamais quitté la France, est hospitalisée pour une asthénie persistante depuis 3 semaines. Le bilan hématologique est le suivant : Formule sanguine :
+ Érythrocytes : 3,9 T/L
+ Hémoglobine : 120g/L
+ Hématocrite : 0,35
+ Leucocytes : 18 G/L
+ Plaquettes : 260 G/L
+ Vitesse de sédimentation (1h) :35 mm
+ Formule leucocytaire :
+ Polynucléaires neutrophiles : 35%
+ Polynucléaires éosinophiles : 50%
+ Polynucléaires basophiles : 0%
+ Lymphocytes : 13%
+ Monocytes : 2%",1,Commentez les résultats du bilan hématologique.,"Hyperleucocytose. Hyperéosinophilie élevée. Vitesse de sédimentation accélérée, un hématocrite et un taux d'érythrocytes légèrement abaissés. L'hémoglobine est normale.",Pharmacy,Reasoning,True
+4254,"Un homme de 38 ans, consulte pour des épisodes dyspnéiques à répétition. Il a pour antécédents principaux un eczéma dans l'enfance qui a disparu vers l'âge de 10 ans et une rhinite pollinique. Il est boulanger depuis l'âge de 16 ans, et exerce comme salarié dans le rayon ""boulangerie"" d'une grande chaîne d'hypermarchés depuis 10 ans. Il n'est pas fumeur. Il signale que les épisodes de dyspnée ont débuté il y a environ 3 ans, initialement sur un rythme hebdomadaire, survenant essentiellement en fin de semaine, en fin de journée de travail. La fréquence a progressivement augmenté et il mentionne qu'actuellement il présente une crise par jour, pour laquelle il dit être bien soulagé par 2 bouffées de salbutamol (Ventoline©). Il est surtout gêné au pétrin. L'auscultation pulmonaire est normale. Il pèse 68 kg, mesure 1,77 m. Vous suspectez un asthme professionnel et prescrivez une radiographie de thorax et des explorations fonctionnelles respiratoires.",1,Quel(s) élément(s) fait(font) évoquer un asthme professionnel dans cette observation?,Dans cette observation : ‐ Apparition d'un asthme chez un adulte ‐ Episodes dyspnéiques de fréquence croissante ‐ Survenant en fin de journée de travail surtout en fin de semaine (rythme professionnel) ‐ Exposition professionnelle à des allergènes connus ‐ Episodes dyspnéiques en rapport avec un geste spécifique avec exposition importante (travail au pétrin) A rechercher : ‐ existence d'une rhinite ou précession de l'asthme par rhinite. ‐ amélioration durant les jours de repos ou les congés.,Pulmonology,Reasoning,True
+659,"Une petite fille de 4,5 ans consulte pour un souffle. Vous faites le diagnostic de communication interauriculaire en position d’ostium secundum de 19 mm pour un septum interauriculaire de 30 mm. Les parents vous disent ne pas souhaitez d’intervention chirurgicale pour l’instant.",1,Que leur proposez-vous ?,Attendre car il n’y a pas de raison qu’elle ait des symptômes,Pediatric Cardiology,Reasoning,True
+2344,"Une jeune fille de 17 ans ingère « par erreur » du diluant pour photocopie contenant du méthanol lors d’une soirée entre 20 et 24 heures (J0). Le jour suivant (J1), elle se plaint de maux de tête et est somnolente. Elle est transportée à 2 heures du matin la nuit suivante (J2) à l’hôpital le plus proche, soit environ 26 heures après l’ingestion de méthanol.
+ A l’examen clinique, la patiente est modérément angoissée, présente une peau froide et moite : sa respiration est rapide. Elle ne présente pas de troubles oculaires, sa température est de 36,5°C, le pouls régulier est à 102 par minute, la pression artérielle 136/84 mm de mercure.
+ Les examens biologiques pratiqués dès l’entrée à l’hôpital montre les résultats suivants :
+ SgA pH (à 37°C) : 7,08
+ SgA pCO2 : 1,4 kPa (10,6 mm Hg)
+ SgA CO2 total : 3,5 mmol/L
+ SgA Bicarbonate :  3,2 mmol/L
+ Pl Sodium : 145 mmol/L
+ Pl Potassium : 4,6 mmol/L
+ Pl Chlorure : 101 mmol/L
+ Pl Glucose : 7,0 mmol/L
+ Pl Urée : 5,2 mmol/L
+ Méthanolémie plasmatique : 0,82 g/L
+ L’analyse du sang montre l’absence d’autres substances toxiques, notamment d’éthanol, d’éthylène glycol, de paracétamol, de salicylates. L’urine ne présente pas de corps cétoniques. Le médecin ne pratique pas de lavage gastrique.",1,"Outre la valeur de la méthanolémie, quelle est la perturbation biologique majeure présentée par la patiente ? Justifier votre réponse.","Acidose métabolique sévère: pH, pCO2, bicarbonate diminués avec trou anionique calculé selon différentes possibilités; par exemple: (Na+ + K+) - (Cl- + CO2 total) = 149,6 - 104,5 = 45.1 mmol/L ( N : 10 à 20 mmol/L )",Pharmacy,Reasoning,True
+4948,"Mme X., 26 ans, nulligeste, sans contraception, consulte pour des métrorragies de faible abondance, de survenue régulière en fin de cycle depuis 3 mois.
+ L'examen clinique montre :
+ - au spéculum : un col d'aspect sain (les derniers frottis datent de 1 an et sont normaux) ;
+ - au toucher vaginal : l'utérus est indolore, de taille normale, mobile et les culs-de-sac sont libres.
+ Son médecin traitant a prescrit une échographie pelvienne ainsi qu'une hystérographie qui sont normales. L'origine fonctionnelle des troubles est confirmée. Malgré 3 mois de traitement, les métrorragies persistent. Mme X. est devenue enceinte spontanément malgré le traitement du 5e au 25e jour du cycle que vous lui avez donné.",5,Quel est votre avis sur le devenir de cette grossesse ?,"Cela ne pose pas de problème à priori, il faut arrêter tout traitement hormonal pendant la grossesse, il n'y a pas lieu de proposer une interruption thérapeutique de grossesse.",Gynecology and Obstetrics,Reasoning,True
+4388,"Une patiente de 81 ans est hospitalisée pour le traitement d’une pneumopathie aiguë. A l’admission, l’ensemble du bilan biologique est sans particularité. En raison d’une fibrillation auriculaire, un traitement préventif par héparine de bas poids moléculaire est instauré. Sept jours après, la patiente développe une symptomatologie d’obstruction artérielle du membre supérieur droit. L’hémogramme pratiqué alors montre les résultats suivants :
+
+Sg Érythrocytes : 4,29 T/L
+Sg Hémoglobine : 135 g/L
+Sg Hématocrite : 0,40
+Sg Leucocytes : 8 G/L
+Sg Thrombocytes : 45 G/L
+
+Formule leucocytaire :
+Polynucléaires neutrophiles : 0,63
+Polynucléaires éosinophiles : 0,02
+Polynucléaires basophiles : 0,01
+Lymphocytes : 0,30 Monocytes : 0,04",1,Commenter les résultats de l’hémogramme.,Pas d’anémie. Nombre de leucocytes normal. Formule leucocytaire normale. On retient essentiellement la thrombopénie isolée à 45 G/L (valeur usuelle : 150 à 400 G/L).,Pharmacy,Reasoning,True
+3989,"Monsieur D. 45 ans consulte pour une obstruction nasale gauche avec une rhinorrhée purulente homolatérale et des céphalées.ATCD : appendicectomie, fracture de jambe.Cette obstruction nasale existe depuis plusieurs mois, avec des épisodes de céphalées identiques.",1,Quel est votre examen ORL?,"Interrogatoire 
+Rhinoscopie antérieure  
+Examen CB ou percussion dentaire.
+Palpation sus et sous orbitaire ou palpation faciale  
+Température ou Palpation cervicale 
+Recherche de complications: 
+- Examen neurologique (recherche de complications méningées) 
+- ou Examen de l'œil: mobilité oculaire, BAV, mydriase 
+
+L'examen retrouve une douleur à la pression sous-orbitaire et du pus au méat moyen.",Otorhinolaryngology (ENT),Understanding,True
+1114,"Une jeune fille de 11 ans consulte pour une dyspnée d’effort progressivement croissante. A l’examen, vous notez une hyperpulsatilité, une pression artérielle à 135/35 mm Hg. L’auscultation note un souffle systolique 4/6ème rude sur l’ensemble du précordium associé à un souffle diastolique 3/6ème au foyer aortique. ",1,Quel est votre diagnostic ?,Syndrome de Pezzi-Laubry (CIV + Insuffisance aortique),Pediatric Cardiology,Reasoning,True
+1253,"Un garçon de 4 mois est examiné pour un souffle. Il a une myocardiopathie hypertrophique avec une discrète obstruction sous aortique. Il est hypotonique avec une viscéromégalie, une hypertrophie ventriculaire gauche électrique considérable et une préexcitation.",1,Quelle étiologie évoquez-vous?,maladie de Pompe,Pediatric Cardiology,Understanding,True
+1219,"A la naissance, l’examen clinique est normal en dehors d’un souffle systolique éjectionnel 1/6ème. L’échocardiographie montre un CAV partiel avec une voie sous aortique de 4,5 mm, un anneau aortique de 6 mm (N=8 mm) et une crosse aortique hypoplasique. Au Doppler couleur, vous voyez que la crosse aortique est perfusée de façon rétrograde jusqu’au tronc artériel brachiocéphalique par le canal artériel.",2,Qu’en concluez-vous ?,que le ventricule gauche n’assure pas le débit systémique,Pediatric Cardiology,Reasoning,True
+584,"Une jeune femme de 29 ans a eu une intervention de Mustard pour une transposition des gros vaisseaux. Elle n’a aucun symptôme cardiaque. L’examen est normal en dehors d’un souffle de régurgitation à la pointe. L’ECG montre une défaillance sinusale modérée. La radiographie de thorax montre une cardiomégalie avec un rapport cardio- thoracique à 0,65. En échographie, le ventricule droit est dilaté, modérément hypokinétique et la valve tricuspide fuit de façon moyenne.",1,Quelle contraception lui proposez-vous?,Préservatif ou progestatifs,Pediatric Cardiology,Reasoning,True
+3304,"Monsieur X. 54 ans, grand fumeur à 40 paquets/année non sevré, est hypertendu depuis 4ans . Il est traité par metoprolol 100 mg /jour ( bêta bloquant )Sa BPCO, connue depuis 5 ans, ne se manifeste que par deux épisodes infectieux bronchiques par an et ne comporte pas de traitement particulier entre ces infections.
+Son médecin traitant souhaite avoir un avis cardiologique car sa pression artérielle reste élevée à 3 consultations successives ( # 1 : 152/88 mm Hg , # 2 : 156/86 mm Hg , # 3 : 146/80 mm Hg ) Il n’a aucune plainte fonctionnelle et son examen clinique est normal.",1,Quel est le bilan de son hypertension artérielle ?,"- Urée, Créatinine, Kaliémie 
+- Glycémie à jeun, LDL, HDL, Cholestérol total 
+- Bandelette urinaire (si + protéinurie des 24 h ) 
+- ECG",Cardiology,Reasoning,True
+4730,"Mme Y., 72 ans, 55 kg, est hospitalisée pour une altération de l’état général suite à une décompensation respiratoire liée à une infection par Pseudomonas aeruginosa.
+
+ANTECEDENTS MEDICAUX :
+-  Asthme depuis 30 ans.
+-  Allergie à l’aspirine.
+-  Ostéoporose.
+
+BILAN :
+-  Pl Na : 142 mmol/L
+-  Pl K : 3,6 mmol/L
+-  Pl Créatinine : 150 μmol/L
+
+-  SgA pO2 : 74mmHg
+-  SgA pCO2 : 60mmHg
+-  SgA pH : 7,41
+
+-  NFS :
+Sg Leucocytes : 6,1 G/L
+Sg Hémoglobine : 134 g/L
+Sg Hématocrite : 0,38
+Sg Thrombocytes : 245 G/L
+
+-  Clairance de la créatinine : 53 mL/min
+-  Débit respiratoire de pointe : < 60 % des valeurs normales
+
+TRAITEMENT :
+-  ATROVENT® (ipratropium) 0,5 mg/2 ml : 3 aérosols/j
+-  CIFLOX® (ciprofloxacine) 500 mg : 1 cp matin et soir
+-  DIDRONEL® (étidronate) 200 mg : 2 cp au déjeuner
+-  IDEOS® (calcium + vit.D) : 1 cp au déjeuner
+-  MOPRAL® (oméprazole) 20 mg : 1 gélule le soir
+-  SOLUPRED® (prednisolone) 20 mg : 2 cps le matin
+-  FORTUM® (ceftazidime)1ginj : 1 flacon à 00h, 08h et 16h
+-  TEMESTA® (lorazépam) 1 mg : 1 cp au coucher
+-  VENTOLINE® (salbutamol) 2.5 mg/2.5 ml : 3 aérosols/j.",2,Pour quelle(s) raison(s) l’association FORTUM® et CIFLOX® a été préférée à l’association FORTUM® et AMIKLIN® (amikacine) chez cette patiente ?,"-  L’amikacine est un aminoside qui est néphrotoxique et éliminé sous forme inchangée dans les urines. Lors d’insuffisance rénale (cas de Mme Y), l’utilisation de l’amikacine est déconseillée.
+-  Les aminosides ont une mauvaise diffusion au niveau des voies respiratoires (- les résultats de l’antibiogramme ont peut-être influencé ce choix).",Pharmacy,Reasoning,True
+1254,"Un garçon de 4 mois est examiné pour un souffle. Il a une myocardiopathie hypertrophique avec une discrète obstruction sous aortique. Son père a une myocardiopathie hypertrophique, deux de ses tantes sont décédées subitement à 17 et 29 ans.",1,Quelle étiologie évoquez-vous?,MCH familiale dominante par mutations dans les protéines sarcomériques,Pediatric Cardiology,Understanding,True
+199,"Un enfant atteint d’hyperplasie congénitale des surrénales, maladie autosomique récessive, a été génotypé par séquençage. Deux mutations ont été identifiées: la mutation récurrente Gly110fs (délétion de 8 paires de bases) et une mutation rare non-sens p.Tyr94X.",1,Cet enfant est-il double hétérozygote ou hétérozygote composite ? Quelle est la réponse la plus probable ? Justifiez votre réponse.,"Cet enfant est probablement un hétérozygote composite et est porteur de gènes iso-actifs (mutations différentes d’un même gène entraînant le même phénotype).
+ En effet, on est dans le cas d'une maladie autosomique récessive où les deux variants du même gène doivent être mutés pour induire un phénotype atteint. 
+ Il possède deux mutations différentes d'un même gène entraînant le phénotype ""hyperplasie congénitale des surrénales"". ",Genetics,Reasoning,True
+587,"Un adolescent de 16 ans a eu à l’âge de 5 ans une dérivation cavopulmonaire totale pour un cœur univentriculaire (atrésie mitrale, malposition vasculaire et atrésie pulmonaire). Il consulte pour des œdèmes des membres inférieurs et une prise de poids rapide de 8 kg. L’échographie montre une bonne fonction du ventricule unique et une valve tricuspide compétente. Il n’y a pas d’augmentation anormale des pressions de remplissage avec une dépression inspiratoire correcte de la veine cave inférieure et des veines jugulaires plates en position demi-assise.",1,Quelle complication redoutez-vous ?,entéropathie exsudative,Pediatric Cardiology,Reasoning,True
+1188,"Une jeune femme de 23 ans, enceinte de 22 semaines, consulte pour un avis. Elle vous informe qu’elle a un syndrome du QT long comme plusieurs membres de sa famille. Elle n’a eu que deux syncopes dans l’enfance et depuis qu’elle reçoit un traitement bétabloquant, il ne lui est plus rien arrivé. Elle a sur elle un résultat de diagnostic moléculaire signalant quelle a une mutation dans le gène HERG à l’état hétérozygote.",1,Quel est le risque que son fœtus soit porteur de la même mutation ?,1/2,Pediatric Cardiology,Understanding,True
+444,Un enfant de 6 ans a un ventricule unique avec atrésie pulmonaire pallié par une dérivation cavobipulmonaire subtotale.,1,Que signifie ce terme?,Anastomose cavopulmonaire avec toutes les veines cave sauf les veines sus-hépatiques car retour azygos,Pediatric Cardiology,Understanding,True
+64,Vous voyez en consultation un nourrisson de 9 mois. C’est le quatrième enfant d’un couple non consanguin. Les 3 frères et sœurs sont bien portants et il n’y a pas d’antécédents familiaux de surdité. Les parents se demandent s’il entend bien.,1,Quelle question posez-vous aux parents pour apprécier si le langage se développe normalement pour l’âge ?,"Réaction aux bruits familiers, à la voix
+ Redoublement des syllabes, réponse au prénom",Otorhinolaryngology (ENT),Reasoning,True
+639,"Vous accueillez après un diagnostic prénatal un nouveau-né ayant une transposition simple des gros vaisseaux. L’échographie montre un shunt gauche-droite au travers du foramen ovale. Le foramen ovale étant large, l’enfant n’a pas d’atrioseptotomie de Rashkind. Quelques jours après, une nouvelle échographie montre un canal artériel fermé. Vous voyez toujours un shunt gauche-droite exclusif au travers du foramen ovale. Il bénéficie d’un switch artériel avec des suites simples. La distribution coronaire était normale.",3,Citez les deux principales complications tardives dont vous informez les parents.,"Sténose et occlusion coronaire
+ Rétrécissement supravalvulaire pulmonaire",Pediatric Cardiology,Understanding,True
+1208,Un enfant de 12 ans a eu une réparation complète d’atrésie pulmonaire avec CIV à l’aide d’un tube valvé de 14 mm à l’âge de 3 ans. Il va bien mais la pression dans le ventricule droit est à 125 mm Hg pour une pression aortique à 100 mm Hg.,1,Quel traitement proposez-vous si les branches pulmonaires sont normales ainsi que la pression pulmonaire au delà du tube ?,ouverture VD-AP sans valve,Pediatric Cardiology,Reasoning,True
+4914,"Mme X., 39 ans, vient vous consulter car le résultat de son frottis cervico-vaginal l'inquiète : il indique « classe 3 de Bethesda ». Elle n'a aucun antécédent notable. L'examen général et gynécologique est normal. Il s'agit bien d'un frottis de classe 3. Le diagnostic anatomopathologique est « carcinome micro-invasif ».",4,Que cela signifie-t-il ? Quel est le traitement ?,"La zone de lésion dépasse la membrane basale : envahissement de moins de 5 mm en profondeur, 7 mm en surface. On effectue une conisation au bistouri froid sous anesthésie générale au bloc opératoire après réalisation d'un bilan préopératoire, envoi de la pièce de conisation pour examen anatomopathologique.",Gynecology and Obstetrics,Understanding,True
+2189,"L'enfant T., 7 mois, présente depuis 12 heures des vomissements, une fièvre à 38 °C et une diarrhée profuse. A son admission en pédiatrie, le diagnostic de gastro-entérite à rotavirus est posé.
+ Les résultats du bilan biologique sont les suivants :
+ Pl Sodium : 141 mmol/L
+ Pl Potassium : 2,9 mmol/L 
+ Pl Chlorure : 103 mmol/L 
+ Pl Bicarbonate : 26 mmol/L 
+ Se Protéines : 83 g/L
+ Pl Glucose : 5,3 mmol/L.",1,"Interpréter les résultats biologiques, en se référant aux valeurs biologiques usuelles de l'adulte, qui seront précisées pour chaque paramètre.","Le bilan biologique montre :
+ - une augmentation de la concentration en protéines sériques (valeurs usuelles 65 - 80 g/L) du fait de la déshydratation extracellulaire causée par les vomissements et la diarrhée.
+ - une hypokaliémie (valeurs usuelles 3,5 - 4,5 mmol/L) pouvant être expliquée par des pertes digestives de potassium liées aux diarrhées.
+ - le reste du bilan biologique normal :
+ Valeurs usuelles : glucose (3,9 - 5,5 mmol/L), bicarbonate (23 - 27 mmol/L), sodium (135 - 145 mmol/L), chlorure (95 - 105 mmol/L)",Pharmacy,Reasoning,True
+952,Vous examinez un nouveau-né prématuré de 32 semaines ventilé pour une souffrance périnatale. Le canal artériel est ouvert. Vous donnez du NO°.,2,Quel signe échographique confirmera que les résistances vasculaires pulmonaires sont devenues infra-systémiques?,Shunt gauche droite diastolique par le canal artériel,Pediatric Cardiology,Understanding,True
+2552,"Quentin B., 17 ans, présente depuis un mois des épisodes diarrhéiques accompagnés de douleurs épigastriques. Il est asthénique et perd l’appétit . Il consulte un médecin. L’examen clinique ne révèle rien de particulier en dehors de l’asthénie et d’une légère perte de poids. Le médecin prescrit un hémogramme et un examen Bactériologique et parasitologique des selles.
+ Résultat de l’hémogramme :
+ - Sg Erythrocytes : 5,1 T/L
+ - Sg Leucocytes :  7,9 G/L
+ Polynucléaires neutrophiles : 0,60
+ Polynucléaires éosinophiles : 0,12
+ Polynucléaires basophiles : <0,01
+ Lymphocytes : 0,25
+ Monocytes : 0,03
+ Examen Bactériologique des selles : normal Examen parasitologique des selles :
+ - Absence d’éléments parasitaires
+ * à l’examen macroscopique
+ * à l’examen microscopique (direct, après coloration et technique de concentration) : Présence de très nombreux cristaux de Charcot-Leyden
+ A la lecture des résultats, le clinicien suspecte une helminthiase en phase d’invasion. L’interrogatoire du patient ne révèle aucun voyage hors de la France métropolitaine mais un goût prononcé pour la viande de bœuf crue ou très peu cuite.",1,Un seul examen parasitologique des selles négatif est-il suffisant pour conclure à l’absence d’helminthes intestinaux ? Commenter la réponse.,"Non. L’examen parasitologique des selles peut être en défaut dans plusieurs cas :
+ - Comme c’est le cas ici, parce que l’helminthe est immature (hyperéosinophilie sanguine, présence de cristaux de Charcot-Leyden dans les selles)
+ - Lors des périodes coprologiquement muettes (7 à 10 jours) avec émission discontinue des divers stades parasitaires
+ - En cas de pauci-infestation par des vers mâles
+ - Quand les formes de dissémination ne sont pas mêlées au bol fécal (oxyure, Taenia)",Pharmacy,Reasoning,True
+1281,"Au cours d’une échographie fœtale, le diagnostic de tachycardie fœtale est fait. La fréquence ventriculaire est à 200/mn, les oreillettes battent à 400/mn. ",1,Quel diagnostic faites-vous ?,Flutter auriculaire 2/1,Pediatric Cardiology,Understanding,True
+586,Une jeune fille de 14 ans consulte pour une dyspnée d’effort progressivement croissante. Elle a comme antécédent principal un neuroblastome traité à l’âge de 3 ans par une chimiothérapie. L’échocardiographie montre une myocardiopathie dilatée hypokinétique à parois minces avec des troubles de la relaxation des deux ventricules.,1,Quelle est l’étiologie la plus probable de cette myocardiopathie ?,toxicité des anthracyclines,Pediatric Cardiology,Understanding,True
+3894,"Monsieur J. P., 52 ans, vous est adressé pour prise de poids de 8 kg et syndrome œdémateux des membres inférieurs. Ce cultivateur a comme principaux antécédents une appendicectomie dans l’enfance, une cardiopathie ischémique traitée médicalement (pas de revascularisation), une dyslipidémie mixte et un tabagisme sevré. Son traitement associe kardegic®  75 mg (acetylsalicylate de lysine) par jour, Simvastatine 20 mg par jour et Aténolol 50 mg par jour. Les oedèmes des membres inférieurs sont apparus progressivement sur 3 semaines, le patient n’a aucune autre plainte.Examen clinique :- Apyrexie - Poids 87 kg – Taille 174 cm- PA 160/105 mm Hg – FC 68/min- Oedèmes des membres inférieurs jusqu’à mi-cuisse, indolores, blancs, prenant le godet- Cœur régulier, pas de souffle systolique ni de frottement- Auscultation pulmonaire normale- Abdomen non douloureux, pas d’hépatomégalie, toucher rectal normalLe patient est hospitalisé et les résultats des premiers examens biologiques sont les suivants :Na+ : 139 mmol/LK+ : 4,9 mmol/LCl- : 96 mmol/LHCO3- : 24 mmol/LUrée : 6 mmol/LCréatinine : 92 µmol/LGlycémie : 4,8 mmol/LProtides totaux : 49 g/LAlbuminémie : 21 g/LCholesterol total : 3,10 g/L (8 mmol/L)Triglycerides : 2,90 g/L  (3,3 mmol/L)CPK : 124 UI/mlGB : 8000/mm3Hb : 13,8 g/dlPlaquettes : 212000/mm3bandelette urinaire :Protéinurie : +++Leucocytes : -Hématies : +Échographie : deux reins de taille normale, sans anomalie des voies excrétrices.",1,Quelle est la cause de ce syndrome oedémateux ?,"Il s’agit d’un syndrome néphrotique  :
+- Protéinurie abondante +++ ( > 3 g/24 h) 
+- Protidémie < 60 g/L 
+- Hypoalbuminémie < 30 g/L 
+Le syndrome néphrotique est impur  (hématurie microscopique ± hypertension artérielle, la fonction rénale est normale, 90 à 95 ml/min)",Nephro-Urology,Reasoning,True
+4989,"Mme X., secrétaire, âgée de 33 ans, vous est adressée par son gynécologue car il n'a pu pratiquer d'examen gynécologique en raison de contractions vaginales intenses. Son mari et elle ont eu un enfant il y a deux ans et depuis ils n'ont plus eu de rapport car elle repousse ses avances. Ils aimeraient bien avoir un deuxième enfant mais son mari ne peut même pas introduire son petit doigt dans son vagin tellement il est contracté. Ils sont mariés depuis huit ans. Les spasmes ont commencé à son mariage et ils n'ont pas eu de rapport pendant un an. Ensuite ils ont eu quelques rapports pendant lesquels elle a ressenti de rares orgasmes, cela a duré cinq ans mais Mme X. avoue que la pénétration est plus source d'angoisse que de plaisir. Vous notez dans ses antécédents qu'elle a une endométriose chronique qui lui a probablement valu d'attendre 5 ans pour être enceinte, grossesse pendant laquelle elle a dû prendre des œstrogènes (en rapport avec l'endométriose) et elle pense d'ailleurs que c'est à cause de cela qu'elle a accouché prématurément et d'ailleurs elle s'en veut beaucoup et a peur d'être à nouveau enceinte. Elle est issue d'une famille très religieuse dans laquelle le sujet de la sexualité n'était jamais abordé, que tout ce qui s'y rattache était considéré comme mal et source pour elle de culpabilité. Elle est incapable de situer son clitoris sur le schéma de son sexe que vous lui avez demandé de faire et n'a entendu parler de masturbation et de fellation que très récemment et elle trouve tout ceci extrêmement répugnant. Depuis son enfance elle a toujours eu très peur que l'eau du bain ne rentre dans son vagin et ne l'infecte et a toujours eu des rêves où des grands objets pénètrent dans son corps.",1,Quel est précisément votre diagnostic syndromique ?,Le principal diagnostic de Mme X. est un vaginisme exclusivement psychogène et acquis.,Gynecology and Obstetrics,Reasoning,True
+1080,"Vous examinez à 3 jours de vie un enfant pour un souffle systolique. L'échographie montre une CIV périmembraneuse isolée de 6 mm shuntant de gauche à droite. La vélocité du flux Doppler au travers de cette CIV est de 1,2 m/s. Les cavités gauches sont normales. Vous revoyez cet enfant 6 semaines plus tard en consultation. Il a pris 300g depuis sa naissance et s'alimente difficilement. Le foie est gros. Le souffle reste peu intense. La radiographie de thorax montre une cardiomégalie franche et des poumons surchargés. Vous hospitalisez ce nourrisson et les examens biologiques montrent une hémoglobine à 100g/L. Vous décidez de transfuser cet enfant.",3,Quel paramètre souhaitez-vous modifier par cette manœuvre? Quelle en sera la conséquence en terme hémodynamique?,"Augmenter la viscosité
+ Augmenter les résistances pulmonaires selon la Loi de Poiseuille",Pediatric Cardiology,Reasoning,True
+637,Vous accueillez après un diagnostic prénatal un nouveau-né ayant une transposition simple des gros vaisseaux. L’échographie montre un shunt gauche-droite au travers du foramen ovale.,1,Le canal artériel est-il ouvert ?,Oui,Pediatric Cardiology,Reasoning,True
+1729,"Une femme de 64 ans, veuve depuis un an, ménopausée à 52, est mère de 2 enfants de 40 et 27 ans. Sa mère, atteinte d'un DNID est décédée à 78 ans d'un infarctus du myocarde.
+ La malade consulte pour un intertigo (inflammation de la peau au niveau des plis) sous-mammaire et inguinal bilatéral. Elle pèse 80 kg pour 1,65 m et présente une obésité de type androïde. La malade dit faire des efforts pour perdre du poids qui s'est accru régulièrement depuis sa dernière maternité et qui a augmenté de 8 kg au cours des 3 dernières années. Depuis 6 mois environ, elle se plaint d'une asthénie physique et psychique inhabituelle, mais ne présente pas de syndrôme dépressif vrai. Elle ne fume pas mais peut boire de l'alcool à l'excès quand l'occasion se présente.
+ L'examen clinique ne révèle aucune autre anomalie que les lésions cutanées et une HTA modérée, chiffrée à 150/100 mmHg, mesurée dans des conditions correctes de détermination. Le bilan biologique effectué le lendemain est le suivant :
+ Pl Glycémie à jeun 8,60 mmol/L
+ Pl Glycémie post-prandiale 12,76 mmol/L (N : 11,1 mmol/L)
+ Se Cholestérol total 6,70 mmol/L
+ Se Triglycérides 3,65 mmol/L
+ L'aspect du sérum n'est pas précisé 
+ Pl Créatinine 130 μmol/L
+ Les enzymes hépatiques, l'hémogramme et l'exploration thyroïdienne sont normaux, de même que l'examen des urines, à l'exception d'une discrète cétonurie au moment de la consultation, alors que la malade était à jeun depuis la veille pour les examens sanguins.
+ Le diagnostic retenu est celui de DNID.",1,"Dans cette observation, quels sont les arguments cliniques et biologiques permettant de porter le diagnostic de DNID ? La cétonurie observée est-elle un argument diagnostique ?","Âge mûr, période post-ménopausique. antécédent maternel de DNID. caractère modéré des anomalies glycémiques, surcharge pondérale ancienne récemment majorée.
+ L'asthénie d'apparition récente pourrait faire évoquer une insulinodépendance. mais elle peut aussi s'expliquer par l'hypertriglycéridémie la surcharge pondérale et/ou par le veuvage récent.
+ La cétonurie discrète constatée à jeun doit être ici considérée comme une cétonurie de jeûne et non comme un paramètre d'insulinodépendance: la cétonurie révélatrice d'un risque d'acido-cétose est toujours franche.",Pharmacy,Reasoning,True
+728,"Un jeune couple attend son premier enfant. L’échographie morphologique du deuxième trimestre de la grossesse note une asymétrie des ventricules aux dépends du ventricule gauche. Une première expertise échocardiographique fœtale conclut à une asymétrie modérée (VG=0,6VD). La naissance a eu lieu à terme. L’examen clinique est normal. L’échocardiographie montre un anneau mitral de 7 mm pour une anneau tricuspide de 14 mm. L’anneau aortique mesure 5,5 mm et l’anneau pulmonaire 12 mm.",4,Quel est le risque dans les jours suivants la naissance ?,Coarctation,Pediatric Cardiology,Reasoning,True
+2735,"Un enfant de 15 mois est adressé en consultation pour hématomes fréquents depuis qu’il commence à marcher. Son grand père maternel est décédé de complications hémorragiques après sa chute d’une échelle, la mère en revanche a déjà été opérée des amygdales sans problème dans son enfance.
+ Après avoir effectué un prélèvement correct, le bilan d’hémostase donne les résultats suivants :
+ Temps de saignement (IVY) : 4 min 30
+ Plaquettes : 360 G/L
+ Temps de céphaline activée : 150 s (témoin : 32 s)
+ Taux de prothrombine : 0,84
+ Fibrinogène : 2,1 g/L
+ Temps de thrombine : 18 s (témoin 16 s)",1,Commentez les résultats biologiques.,Le bilan met en évidence un allongement isolé du temps de céphaline activée. Il s'agit donc d'une anomalie se situant au niveau de la voie intrinsèque.,Pharmacy,Reasoning,True
+1238,"Un nouveau-né est hospitalisé pour insuffisance cardiaque due à une sténose aortique serrée. Le ventricule gauche est dilaté, hypokinétique avec un aspect nacré des piliers mitraux. Le traitement néonatal a été un succès. Quatre ans plus tard, la sténose aortique s’est reconstituée avec un gradient maximum de 100 mm Hg (moyen 55 mm Hg), il s’y associe une fuite 2/4 avec un ventricule gauche modérément dilaté, hypertrophique, hyperkinétique. La valve aortique est monocuspide et l’anneau est hypoplasique (9 mm).",2,Vous décidez un remplacement valvulaire. Quelle technique proposez-vous ?,intervention de Konno-Ross (autogreffe pulmonaire),Pediatric Cardiology,Reasoning,True
+3662,"Mlle X vient de passer un concours qui lui a nécessité deux ans de préparation intensive. Ces résultats lui ont permis de choisir une vie harmonieuse et un avenir professionnel lui permettant enfin de se prendre du temps. Malheureusement, elle a dû pour cela, partir dans une autre région. Elle décide alors de refaire du sport, afin de recommencer une activité physique et de pouvoir rencontrer des amis dans sa nouvelle ville. Son dévolu est jeté sur le canoë/kayak qui lui permettrait une activité de plein air et un important sentiment de liberté. 
+Elle vient évidemment vous consulter pour un certificat d’aptitude à la pratique sportive.",1,Quels sont les éléments décisifs de votre consultation ?,"- Interrogatoire général à la recherche de risque à la pratique d’un sport  
+en zone « sauvage »: diabète, épilepsie…
+- Interrogatoire des FdR cardio-vasculaires personnels et familiaux 
+- Examen cardio-vasculaire et neurologique standard 
+- Conseils hygiéno-diététique 
+Vaccination tétanique +++",Occupational Medicine,Reasoning,True

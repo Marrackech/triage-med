@@ -1,0 +1,27 @@
+# Environnements Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+*.egg-info/
+
+# Données (ne pas versionner, trop volumineux / sensible)
+data_raw/
+data_processed/
+data_annotated/
+
+# Modèles et checkpoints
+*.safetensors
+*.bin
+checkpoints*/
+
+# Logs
+*.log
+traceability_log.jsonl
+
+# macOS
+.DS_Store
+
+# Secrets
+.env
+*.token
