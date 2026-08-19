@@ -1,0 +1,36 @@
+name: CI/CD - Build et test de l'agent de triage médical
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout du code
+        uses: actions/checkout@v4
+
+      - name: Construction de l'image Docker
+        run: |
+          cd deployment
+          docker build -f dockerfile -t chsa-triage-agent:test .
+
+      - name: Lancement du conteneur pour test
+        run: |
+          docker run -d -p 8080:8080 --name chsa-test chsa-triage-agent:test
+          sleep 10
+
+      - name: Test du endpoint /health
+        run: |
+          curl --fail http://localhost:8080/health || exit 1
+          echo "✅ Le endpoint /health répond correctement"
+
+      - name: Nettoyage
+        if: always()
+        run: |
+          docker stop chsa-test || true
+          docker rm chsa-test || true
