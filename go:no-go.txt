@@ -1,0 +1,96 @@
+========================================================================
+CHECKLIST GO/NO-GO — MISE EN PRODUCTION
+Agent IA de Triage Médical — POC CHSA (Centre Hospitalier Saint-Aurélien)
+========================================================================
+
+CRITÈRES TECHNIQUES
+------------------------------------------------------------------------
+Critère                                | Statut       | Détail
+------------------------------------------------------------------------
+Modèle entraîné et fonctionnel         | CONDITIONNEL | SFT+DPO opérationnels, 
+                                        |              | mais biais fort vers 
+                                        |              | "urgence_maximale" et 
+                                        |              | hallucinations factuelles 
+                                        |              | observées
+
+Latence acceptable                     | GO           | ~2.4s en moyenne, stable 
+                                        |              | sur les tests réalisés
+
+Endpoint déployé et accessible         | GO           | vLLM + FastAPI 
+                                        |              | fonctionnels, testés
+
+Traçabilité des interactions           | GO           | Logging JSONL avec ID, 
+                                        |              | timestamp, contexte, 
+                                        |              | réponse, latence
+
+Gestion des erreurs / robustesse       | CONDITIONNEL | Validation des champs 
+                                        |              | requis OK ; contextes 
+                                        |              | très longs échouent 
+                                        |              | (502) ; champs vides 
+                                        |              | non filtrés
+
+Anonymisation des données              | CONDITIONNEL | Fonctionne mais faux 
+                                        |              | positifs résiduels 
+                                        |              | documentés (tags 
+                                        |              | <PERSON> visibles dans 
+                                        |              | certaines réponses)
+
+CI/CD fonctionnel                      | GO           | Pipeline GitHub Actions 
+                                        |              | opérationnel
+
+Sécurité des accès (clés/secrets)      | NO-GO        | Aucune authentification 
+                                        |              | sur l'API actuellement
+
+
+CRITÈRES CLINIQUES
+------------------------------------------------------------------------
+Critère                                | Statut       | Détail
+------------------------------------------------------------------------
+Fiabilité du signal de priorité        | NO-GO        | Volume d'annotation 
+                                        |              | insuffisant (214/5227 
+                                        |              | = 4%), biais vers 
+                                        |              | urgence maximale, ne 
+                                        |              | discrimine pas 
+                                        |              | fiablement les cas 
+                                        |              | bénins
+
+Validation par des professionnels      | NO-GO        | Aucune validation 
+de santé                               |              | clinique effectuée à 
+                                        |              | ce stade (hors 
+                                        |              | périmètre du POC)
+
+Absence d'hallucinations dangereuses   | NO-GO        | Cas observés d'invention 
+                                        |              | de symptômes non 
+                                        |              | présents dans l'énoncé
+
+
+VERDICT GLOBAL
+------------------------------------------------------------------------
+NO-GO pour un déploiement en conditions réelles.
+GO pour la poursuite en Phase 2 (développement encadré, avec les 
+recommandations ci-dessous).
+
+Ce verdict est cohérent avec l'objectif du POC : démontrer la 
+faisabilité technique, pas livrer un produit fini prêt pour la 
+production.
+
+
+RECOMMANDATIONS PRIORITAIRES AVANT TOUTE PHASE 2
+------------------------------------------------------------------------
+1. Partenariat CHSA pour un corpus de triage réel annoté par des 
+   professionnels de santé (infirmiers IOA).
+
+2. Ajout d'une authentification/autorisation sur l'API (actuellement 
+   absente).
+
+3. Validation clinique du signal de priorité par un comité médical 
+   avant tout usage, même pilote.
+
+4. Mécanisme de garde-fou (ex : seuil de confiance, réponse 
+   "indéterminé" plutôt qu'un signal potentiellement faux) pour les 
+   cas ambigus.
+
+5. Gestion de la troncature des contextes longs (actuellement échec 
+   sec plutôt que dégradation gracieuse).
+
+========================================================================
