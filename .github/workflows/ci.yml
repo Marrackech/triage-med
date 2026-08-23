@@ -76,7 +76,7 @@ jobs:
       - name: Publication de l'image Docker
         if: github.ref == 'refs/heads/main' && github.event_name == 'push'
         run: |
-          IMAGE_NAME="ghcr.io/${{ github.repository_owner }}/chsa-triage-agent"
+          IMAGE_NAME="ghcr.io/$(echo "${{ github.repository_owner }}" | tr "[:upper:]" "[:lower:]")/chsa-triage-agent"
 
           docker tag chsa-triage-agent:test "${IMAGE_NAME}:latest"
           docker tag chsa-triage-agent:test "${IMAGE_NAME}:${{ github.sha }}"
