@@ -5,7 +5,7 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY fastapi_app.py .
+COPY fastapi_app.py security.py .
 
 ENV MODEL_NAME="UserMarrakech/qwen3-triage-final"
 ENV VLLM_URL="http://host.docker.internal:8000/v1/completions"
