@@ -1338,3 +1338,16 @@ Le POC atteint ainsi son objectif d'ingénierie : **démontrer la faisabilité t
 Les résultats expérimentaux montrent toutefois que la faisabilité technique ne suffit pas à garantir la sécurité clinique. La sur-classification, les hallucinations et l'absence de validation médicale imposent un **NO-GO pour la production**.
 
 La suite logique du projet est donc une **Phase 2 encadrée avec des professionnels de santé**, un corpus de triage beaucoup plus représentatif et une validation clinique rigoureuse.
+
+
+📚 Project Repository
+
+Le code complet du projet, les notebooks d'entraînement, les tests, le déploiement Docker et la CI/CD sont disponibles dans le dépôt GitHub associé au projet.
+
+GitHub : https://github.com/Marrackech/triage-med
+
+👤 Author
+
+Haroun Tanane
+
+AI Engineer — Projet réalisé dans le cadre du parcours AI Engineer.
