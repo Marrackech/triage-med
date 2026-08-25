@@ -1,0 +1,6 @@
+lien github :
+https://github.com/Marrackech/triage-med
+
+
+lien hugging face :
+https://huggingface.co/UserMarrakech/qwen3-triage-final
