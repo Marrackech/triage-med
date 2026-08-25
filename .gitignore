@@ -26,3 +26,5 @@ traceability_log.jsonl
 .env
 *.token
 
+Finetunez votre propre LLM_Haroun_Tanane/
+huggingface-space/
